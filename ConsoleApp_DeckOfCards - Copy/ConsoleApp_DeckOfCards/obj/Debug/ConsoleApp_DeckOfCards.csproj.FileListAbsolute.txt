@@ -1,0 +1,14 @@
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.exe.config
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.exe
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.pdb
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.csprojAssemblyReference.cache
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.exe
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.pdb
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.csprojAssemblyReference.cache
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.exe
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\obj\Debug\ConsoleApp_DeckOfCards.pdb
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.exe.config
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.exe
+C:\Users\mateo\Desktop\ConsoleApp_DeckOfCards - Copy\ConsoleApp_DeckOfCards\bin\Debug\ConsoleApp_DeckOfCards.pdb
